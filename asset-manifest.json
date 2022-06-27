@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recipe-cost-calculator/static/css/main.955091e8.css",
+    "main.js": "/recipe-cost-calculator/static/js/main.05733277.js",
+    "static/js/787.106a251c.chunk.js": "/recipe-cost-calculator/static/js/787.106a251c.chunk.js",
+    "index.html": "/recipe-cost-calculator/index.html",
+    "main.955091e8.css.map": "/recipe-cost-calculator/static/css/main.955091e8.css.map",
+    "main.05733277.js.map": "/recipe-cost-calculator/static/js/main.05733277.js.map",
+    "787.106a251c.chunk.js.map": "/recipe-cost-calculator/static/js/787.106a251c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.955091e8.css",
+    "static/js/main.05733277.js"
+  ]
+}
